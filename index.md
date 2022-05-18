@@ -6,3 +6,4 @@ Whenever you open a saved article, it looks for a Markdown file based on the top
 
 # Articles
 [iOS Articles](articlesios.md)
+[Scratch Articles](articlesscratch.md)
